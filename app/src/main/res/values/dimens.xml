@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tam_titulo">30sp</dimen>
+    <dimen name="tam_valor">50sp</dimen>
+    <dimen name="height_botones">80dp</dimen>
+    <dimen name="tam_texto_botones">25sp</dimen>
+    <dimen name="altura_linearLayout">80dp</dimen>
+    <dimen name="tam">129dp</dimen>
+
+</resources>
